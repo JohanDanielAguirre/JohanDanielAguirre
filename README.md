@@ -35,9 +35,11 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 <p>
   <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=222" />
   <img alt="React" title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" />
   <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Express.js" title="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="NestJS" title="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Scala" title="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
@@ -66,6 +68,8 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 ---
 
 ### 🚀 Featured Projects
+- 🎓 Professor Rating App: [qualifica-o-seu-professor](https://github.com/JohanDanielAguirre/qualifica-o-seu-professor)
+- 🛠️ Ansible Training: [training-ansible](https://github.com/JohanDanielAguirre/training-ansible)
 - 🧭 Microservices Starter: [microservice-app-example](https://github.com/JohanDanielAguirre/microservice-app-example)
 - 🗳️ Voting System (Proyecto Final): [Proyecto-Final-Software-4-sistema-de-votaciones](https://github.com/JohanDanielAguirre/Proyecto-Final-Software-4-sistema-de-votaciones)
 - 🚗 APO III – Trouble Car Solver: [APOIII_trouble_car_solver](https://github.com/JohanDanielAguirre/APOIII_trouble_car_solver)
@@ -77,7 +81,7 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 - 💬 DISC profile: Influence (I) — people-first, energetic, and collaborative
 - 🎯 Focus: System design, reliable software, developer experience
 - 🌱 Motto: “Always learning”
-- 🥘 Outside of code: I love cooking and taking nature walks
+- 🥘 Outside of code: I love cooking, Teaching and taking nature walks
 
 ---
 
@@ -90,4 +94,4 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 ---
 
 ### 🤝 Let’s connect
-If you’d like to collaborate on Java/React microservices, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn. I’m always happy to share ideas and build together.
+If you’d like to collaborate on Java/React/TypeScript/Express microservices, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn. I’m always happy to share ideas and build together.
