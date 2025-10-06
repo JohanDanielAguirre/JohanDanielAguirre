@@ -3,7 +3,12 @@ Profile README for @JohanDanielAguirre
 Vibe: Colorful, energetic, DISC "I" (Influence)
 -->
 
-<h1 align="center">Hi, I'm Johan Daniel Aguirre 👋</h1>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=000000&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Johan+Daniel+Aguirre;Age%3A+19;Building+the+future%2C+line+by+line"
+    alt="Hi, I'm Johan Daniel Aguirre • Age: 19 • Building the future, line by line"
+  />
+</h1>
 <h3 align="center">System Software Engineer</h3>
 
 <p align="center">
@@ -23,23 +28,27 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 
 ### ⚙️ Tech I work with
 
-<!-- AI, Logic & Modeling -->
+<!-- AI, Data Science & Modeling -->
 <p>
   <img alt="Python (AI/ML)" title="Python (AI/ML)" src="https://img.shields.io/badge/Python%20(AI%2FML)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="pandas" title="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Prolog" title="Prolog" src="https://img.shields.io/badge/Prolog-333333?style=for-the-badge" />
   <img alt="ZeroC Ice" title="ZeroC Ice" src="https://img.shields.io/badge/ZeroC%20Ice-0B5FFF?style=for-the-badge" />
   <img alt="Visual Paradigm" title="Visual Paradigm" src="https://img.shields.io/badge/Visual%20Paradigm-ED1A3A?style=for-the-badge" />
+  <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
 </p>
 
 <!-- Backend & Frontend -->
 <p>
   <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express.js" title="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Django" title="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=222" />
   <img alt="React" title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" />
   <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Express.js" title="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="NestJS" title="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Scala" title="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
@@ -59,15 +68,40 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 
 <!-- Databases & APIs -->
 <p>
+  <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Oracle SQL" title="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Apache Cassandra" title="Apache Cassandra" src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
   <img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img alt="GraphQL" title="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
+<!-- Tools, Design & Testing -->
+<p>
+  <img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Figma" title="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<!-- Operating Systems & Shell -->
+<p>
+  <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Ubuntu" title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Kali Linux" title="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="Windows CMD" title="Windows CMD" src="https://img.shields.io/badge/Windows%20CMD-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Bash/Shell" title="Bash/Shell" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<!-- Systems & Embedded -->
+<p>
+  <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
+- 🔐 ECB Cipher/Decipher: [CipherAndDeschiperECB](https://github.com/JohanDanielAguirre/CipherAndDeschiperECB)
 - 🎓 Professor Rating App: [qualifica-o-seu-professor](https://github.com/JohanDanielAguirre/qualifica-o-seu-professor)
 - 🛠️ Ansible Training: [training-ansible](https://github.com/JohanDanielAguirre/training-ansible)
 - 🧭 Microservices Starter: [microservice-app-example](https://github.com/JohanDanielAguirre/microservice-app-example)
@@ -80,8 +114,9 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 ### 🌈 About me
 - 💬 DISC profile: Influence (I) — people-first, energetic, and collaborative
 - 🎯 Focus: System design, reliable software, developer experience
+- 🔒 Cybersecurity: Entry‑level experience with block cipher ECB encrypt/decrypt; planning to expand with more security‑focused technical repos
 - 🌱 Motto: “Always learning”
-- 🥘 Outside of code: I love cooking, Teaching and taking nature walks
+- 🥘 Outside of code: I love cooking and taking nature walks
 
 ---
 
@@ -94,4 +129,4 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 ---
 
 ### 🤝 Let’s connect
-If you’d like to collaborate on Java/React/TypeScript/Express microservices, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn. I’m always happy to share ideas and build together.
+If you’d like to collaborate on Java/React/TypeScript/Node/Express or Django, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn. I’m always happy to share ideas and build together.
