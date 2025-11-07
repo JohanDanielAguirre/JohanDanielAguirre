@@ -129,4 +129,4 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 ---
 
 ### 🤝 Let’s connect
-If you’d like to collaborate on Java/React/TypeScript/Node/Express or Django, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn. I’m always happy to share ideas and build together.
+If you’d like to collaborate on Java/React/TypeScript/Node/Express or Django, AI with Python and Prolog, or DevOps (GitHub Actions, Jenkins, Terraform, Ansible, Azure), feel free to reach out via LinkedIn or email. I’m always happy to share ideas and build together.
