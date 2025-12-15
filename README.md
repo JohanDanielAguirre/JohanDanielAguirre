@@ -6,7 +6,7 @@ Vibe: Colorful, energetic, DISC "I" (Influence)
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=000000&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Johan+Daniel+Aguirre;Age%3A+19;Building+the+future%2C+line+by+line"
-    alt="Hi, I'm Johan Daniel Aguirre • Age: 19 • Building the future, line by line"
+    alt="Hi, I'm Johan Daniel Aguirre • Age: 20 • Building the future, line by line"
   />
 </h1>
 <h3 align="center">System Software Engineer</h3>
